@@ -11,17 +11,17 @@
   <h3>🚀 About Me</h3>
 </div>
 
-- 🎓 **Computer Science Student** passionate about backend systems and scalability.
-- 📘 Currently grinding **Data Structures & Algorithms in Java**.
-- 💻 Building full-stack applications using the **MERN Stack**.
-- 🌐 Interested in **Real-time apps (WebRTC/Socket.io)** and **System Design**.
-- 🧠 Philosophy: *"Consistency beats speed. Learning by building."*
-- 📫 Reach me at: **[rashisingh.bt@gmail.com](mailto:rashisingh.bt@gmail.com)**
+- **Computer Science Student** passionate about backend systems and scalability.
+- Currently grinding **Data Structures & Algorithms in Java**.
+- Building full-stack applications using the **MERN Stack**.
+- Interested in **Real-time apps (WebRTC/Socket.io)** and **System Design**.
+- Philosophy: *"Consistency beats speed. Learning by building."*
+- Reach me at: **[rashisingh.bt@gmail.com](mailto:rashisingh.bt@gmail.com)**
 
 ---
 
 <div align="center">
-  <h3>🛠️ Technical Stack</h3>
+  <h3>Technical Stack</h3>
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -50,7 +50,7 @@
 
 ---
 
-### ⚡ GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rashi-AI7&show_icons=true&theme=tokyonight&hide_border=true" alt="Rashi's GitHub Stats" />
@@ -62,17 +62,17 @@
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🎥 Real-Time Video App** | A Peer-to-Peer video conferencing tool focusing on low latency and scalability. | `WebRTC` `Socket.io` `Node.js` `React` |
-| **🧠 Google DeepMind Hack** | Developed a prototype solving real-world constraints under tight deadlines. | `Python` `API Integration` `Rapid Prototyping` |
+| **Real-Time Video App** | A Peer-to-Peer video conferencing tool focusing on low latency and scalability. | `WebRTC` `Socket.io` `Node.js` `React` |
+| **Google DeepMind Hack** | Developed a prototype solving real-world constraints under tight deadlines. | `Python` `API Integration` `Rapid Prototyping` |
 
 ---
 
 <div align="center">
-  <h3>🌐 Connect With Me</h3>
+  <h3>Connect With Me</h3>
   
   <a href="https://www.linkedin.com/in/rashiai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
