@@ -8,14 +8,13 @@
 ---
 
 <div align="center">
-  <h3>🚀 About Me</h3>
+  <h3>About Me</h3>
 </div>
 
 - **Computer Science Student** passionate about backend systems and scalability.
 - Currently grinding **Data Structures & Algorithms in Java**.
 - Building full-stack applications using the **MERN Stack**.
 - Interested in **Real-time apps (WebRTC/Socket.io)** and **System Design**.
-- Philosophy: *"Consistency beats speed. Learning by building."*
 - Reach me at: **[rashisingh.bt@gmail.com](mailto:rashisingh.bt@gmail.com)**
 
 ---
