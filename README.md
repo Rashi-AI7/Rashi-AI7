@@ -11,7 +11,7 @@
   <h3>About Me</h3>
 </div>
 
-- **Computer Science Student** passionate about backend systems and scalability.
+- **Computer Science - Artificial Intelligence Student** passionate about backend systems and scalability.
 - Currently grinding **Data Structures & Algorithms in Java**.
 - Building full-stack applications using the **MERN Stack**.
 - Interested in **Real-time apps (WebRTC/Socket.io)** and **System Design**.
