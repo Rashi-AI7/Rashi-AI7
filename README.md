@@ -83,3 +83,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rashi-AI7&style=flat-square&color=blue)
