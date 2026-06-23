@@ -61,15 +61,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Real-Time Video App** | A Peer-to-Peer video conferencing tool focusing on low latency and scalability. | `WebRTC` `Socket.io` `Node.js` `React` |
-| **Google DeepMind Hack** | Developed a prototype solving real-world constraints under tight deadlines. | `Python` `API Integration` `Rapid Prototyping` |
-
----
-
 <div align="center">
   <h3>Connect With Me</h3>
   
